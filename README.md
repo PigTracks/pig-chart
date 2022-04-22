@@ -2,7 +2,7 @@
 
 An Angular chart library for displaying time series data.
 
-[Pig Chart Screenshot](docs/pig-chart-screenshot.png)
+![Pig Chart Screenshot](docs/pig-chart-screenshot.png)
 
 ## Functionality
 
