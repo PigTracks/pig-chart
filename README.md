@@ -19,3 +19,4 @@ Here is a list of the features we support:
 - Highlight "minor" sections in the timeline
 - Support multiple timeline views
 - Support selecting multiple points on the time axis
+- Support UTC to local time conversion
